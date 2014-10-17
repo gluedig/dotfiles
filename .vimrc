@@ -68,5 +68,3 @@ if filereadable($PWD."/cscope.out")
 endif
 nmap <C-]><C-]> :tnext<CR>
 
-"set statusline=%{fugitive#statusline()}
-
